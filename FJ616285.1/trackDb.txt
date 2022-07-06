@@ -1,0 +1,239 @@
+track FJ616285.1-genbank
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/FJ616285.1.bb
+longLabel Annotated CDS for HCMV strain Towne (FJ616285.1)
+shortLabel GenBank FJ616285.1
+visibility pack
+	 
+
+#############
+	 
+track TATAm-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel TATAm No Flavo
+longLabel TATAm No Flavo
+	 
+track TATAm-No-Flavo_FW
+parent TATAm-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-No-Flavo-dedup-FW-FJ616285.1m.bw
+longLabel TATAm No Flavo
+shortLabel TATAm No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track TATAm-No-Flavo_RV
+parent TATAm-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-No-Flavo-dedup-RV-FJ616285.1m.bw
+longLabel TATAm No Flavo
+shortLabel TATAm No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track TATAm-N1-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel TATAm N1 No Flavo
+longLabel TATAm N1 No Flavo
+	 
+track TATAm-N1-No-Flavo_FW
+parent TATAm-N1-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-No-Flavo-dedup-FW-FJ616285.1m.bw
+longLabel TATAm N1 No Flavo
+shortLabel TATAm N1 No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track TATAm-N1-No-Flavo_RV
+parent TATAm-N1-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-No-Flavo-dedup-RV-FJ616285.1m.bw
+longLabel TATAm N1 No Flavo
+shortLabel TATAm N1 No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track TATAm-N2-No-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel TATAm N2 No Flavo
+longLabel TATAm N2 No Flavo
+	 
+track TATAm-N2-No-Flavo_FW
+parent TATAm-N2-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-No-Flavo-dedup-FW-FJ616285.1m.bw
+longLabel TATAm N2 No Flavo
+shortLabel TATAm N2 No Flavo
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track TATAm-N2-No-Flavo_RV
+parent TATAm-N2-No-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-No-Flavo-dedup-RV-FJ616285.1m.bw
+longLabel TATAm N2 No Flavo
+shortLabel TATAm N2 No Flavo
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############
+	 
+track TATAm-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel TATAm Flavo
+longLabel TATAm Flavo
+	 
+track TATAm-Flavo_FW
+parent TATAm-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-Flavo-dedup-FW-FJ616285.1m.bw
+longLabel TATAm Flavo
+shortLabel TATAm Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track TATAm-Flavo_RV
+parent TATAm-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-Flavo-dedup-RV-FJ616285.1m.bw
+longLabel TATAm Flavo
+shortLabel TATAm Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track TATAm-N1-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel TATAm N1 Flavo
+longLabel TATAm N1 Flavo
+	 
+track TATAm-N1-Flavo_FW
+parent TATAm-N1-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-Flavo-dedup-FW-FJ616285.1m.bw
+longLabel TATAm N1 Flavo
+shortLabel TATAm N1 Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track TATAm-N1-Flavo_RV
+parent TATAm-N1-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-Flavo-dedup-RV-FJ616285.1m.bw
+longLabel TATAm N1 Flavo
+shortLabel TATAm N1 Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+	 
+track TATAm-N2-Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel TATAm N2 Flavo
+longLabel TATAm N2 Flavo
+	 
+track TATAm-N2-Flavo_FW
+parent TATAm-N2-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-Flavo-dedup-FW-FJ616285.1m.bw
+longLabel TATAm N2 Flavo
+shortLabel TATAm N2 Flavo
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+track TATAm-N2-Flavo_RV
+parent TATAm-N2-Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-Flavo-dedup-RV-FJ616285.1m.bw
+longLabel TATAm N2 Flavo
+shortLabel TATAm N2 Flavo
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############
