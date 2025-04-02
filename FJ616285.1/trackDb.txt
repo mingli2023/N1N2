@@ -22,7 +22,7 @@ track TATAm-No-Flavo_FW
 parent TATAm-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-No-Flavo-dedup-FW-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-No-Flavo-dedup-FW-FJ616285.1m.bw1
 longLabel TATAm No Flavo
 shortLabel TATAm No Flavo
 negateValues off
@@ -36,7 +36,7 @@ track TATAm-No-Flavo_RV
 parent TATAm-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-No-Flavo-dedup-RV-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-No-Flavo-dedup-RV-FJ616285.1m.bw1
 longLabel TATAm No Flavo
 shortLabel TATAm No Flavo
 negateValues on
@@ -60,7 +60,7 @@ track TATAm-N1-No-Flavo_FW
 parent TATAm-N1-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-No-Flavo-dedup-FW-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-No-Flavo-dedup-FW-FJ616285.1m.bw1
 longLabel TATAm N1 No Flavo
 shortLabel TATAm N1 No Flavo
 negateValues off
@@ -74,7 +74,7 @@ track TATAm-N1-No-Flavo_RV
 parent TATAm-N1-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-No-Flavo-dedup-RV-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-No-Flavo-dedup-RV-FJ616285.1m.bw1
 longLabel TATAm N1 No Flavo
 shortLabel TATAm N1 No Flavo
 negateValues on
@@ -98,7 +98,7 @@ track TATAm-N2-No-Flavo_FW
 parent TATAm-N2-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-No-Flavo-dedup-FW-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-No-Flavo-dedup-FW-FJ616285.1m.bw1
 longLabel TATAm N2 No Flavo
 shortLabel TATAm N2 No Flavo
 negateValues off
@@ -112,7 +112,7 @@ track TATAm-N2-No-Flavo_RV
 parent TATAm-N2-No-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-No-Flavo-dedup-RV-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-No-Flavo-dedup-RV-FJ616285.1m.bw1
 longLabel TATAm N2 No Flavo
 shortLabel TATAm N2 No Flavo
 negateValues on
@@ -136,7 +136,7 @@ track TATAm-Flavo_FW
 parent TATAm-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-Flavo-dedup-FW-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-Flavo-dedup-FW-FJ616285.1m.bw1
 longLabel TATAm Flavo
 shortLabel TATAm Flavo
 negateValues off
@@ -150,7 +150,7 @@ track TATAm-Flavo_RV
 parent TATAm-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-Flavo-dedup-RV-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-Flavo-dedup-RV-FJ616285.1m.bw1
 longLabel TATAm Flavo
 shortLabel TATAm Flavo
 negateValues on
@@ -174,7 +174,7 @@ track TATAm-N1-Flavo_FW
 parent TATAm-N1-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-Flavo-dedup-FW-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-Flavo-dedup-FW-FJ616285.1m.bw1
 longLabel TATAm N1 Flavo
 shortLabel TATAm N1 Flavo
 negateValues off
@@ -188,7 +188,7 @@ track TATAm-N1-Flavo_RV
 parent TATAm-N1-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-Flavo-dedup-RV-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N1-Flavo-dedup-RV-FJ616285.1m.bw1
 longLabel TATAm N1 Flavo
 shortLabel TATAm N1 Flavo
 negateValues on
@@ -212,7 +212,7 @@ track TATAm-N2-Flavo_FW
 parent TATAm-N2-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-Flavo-dedup-FW-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-Flavo-dedup-FW-FJ616285.1m.bw1
 longLabel TATAm N2 Flavo
 shortLabel TATAm N2 Flavo
 negateValues off
@@ -226,7 +226,7 @@ track TATAm-N2-Flavo_RV
 parent TATAm-N2-Flavo
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-Flavo-dedup-RV-FJ616285.1m.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/TATAm-N2-Flavo-dedup-RV-FJ616285.1m.bw1
 longLabel TATAm N2 Flavo
 shortLabel TATAm N2 Flavo
 negateValues on
