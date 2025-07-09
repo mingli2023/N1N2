@@ -25,6 +25,15 @@ maxHeightPixels 128:128:16
 
 ###########
 
+track MIE_enhancer
+type bigBed 12
+group map
+priority 1
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/MIE_enhancer/MIE_enhancer.bb
+longLabel Annotated MIE Enhancer Region
+shortLabel MIE Enhancer
+visibility pack
+
 
 
 
