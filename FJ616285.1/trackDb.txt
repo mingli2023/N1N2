@@ -25,52 +25,12 @@ maxHeightPixels 128:128:16
 
 ###########
 
-track CRSMIEP-1
-type bigBed 12
-group map
-priority 2
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/CRSMIEP-Orange.bb
-longLabel CRS and MIEP 1
-shortLabel CRS MIEP 1
-visibility pack
-
-###########
-track CRSMIEP-2
+track NuCRSMIEP
 type bigBed 12 
 group map
 priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/CRSMIEP-pink.bb
-longLabel CRS and MIEP 2
-shortLabel CRS MIEP 2
-visibility pack
-##########
-
-track CRSMIEP-3
-type bigBed 12 
-group map
-priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/CRSMIEP-yellow.bb
-longLabel CRS and MIEP 3
-shortLabel CRS MIEP 3
-visibility pack
-
-###########
-track CRSMIEP-4
-type bigBed 12 
-group map
-priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/CRSMIEP-yg.bb
-longLabel CRS and MIEP 4
-shortLabel CRS MIEP 4
-visibility pack
-##########
-
-track CRSMIEP
-type bigBed 12 
-group map
-priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/CRSMIEP.bb
-longLabel CRS and MIEP
-shortLabel CRS MIEP
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/NuCRSMIEP.bb
+longLabel MIEP
+shortLabel MIEP
 visibility pack
 ##########
