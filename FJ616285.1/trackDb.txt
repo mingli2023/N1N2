@@ -55,3 +55,13 @@ longLabel Regions of interest near 3oriLyt
 shortLabel oriLyt Regions 3
 visibility pack
 ##########
+
+track CRSMIEP
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/CRSMIEP.bb
+longLabel CRS and MIEP
+shortLabel CRS MIEP
+visibility pack
+##########
