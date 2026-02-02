@@ -34,3 +34,13 @@ longLabel MIEP
 shortLabel MIEP
 visibility pack
 ##########
+
+track NuCRSMIEP2
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/Nu135CRSMIEP.bb
+longLabel MIEP.
+shortLabel MIEP.
+visibility pack
+##########
