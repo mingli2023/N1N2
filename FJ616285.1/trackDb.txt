@@ -54,3 +54,18 @@ longLabel Nucleosome
 shortLabel Nucleosome
 visibility pack
 ##########
+
+track MIEP
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/Newcrs_miep.bb
+longLabel MIEP2
+shortLabel MIEP2
+visibility pack
+##########
+
+
+
+
+
