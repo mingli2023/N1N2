@@ -65,6 +65,16 @@ shortLabel MIEP2
 visibility pack
 ##########
 
+track MIE
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/MIE.bb
+longLabel MIE
+shortLabel MIE
+visibility pack
+##########
+
 
 
 
