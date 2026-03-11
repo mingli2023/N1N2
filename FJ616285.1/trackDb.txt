@@ -46,6 +46,17 @@ shortLabel MIE
 visibility pack
 
 ##########
+
+track UL123-UL122-SP1-L
+type bigBed 12 
+group map
+priority 3
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/UL123‑UL122‑SP1‑L.bb
+longLabel UL123-UL122-SP1-L
+shortLabel UL123-UL122-SP1-L
+visibility pack
+
+##########
 track MIE-UL124
 type bigBed 12 
 group map
