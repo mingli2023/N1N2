@@ -1,19 +1,18 @@
+##########
 track FJ616285.1-genbank
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/FJ616285.1.bb
+bigDataUrl https://raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/FJ616285.1.bb
 longLabel Annotated CDS for HCMV strain Towne (FJ616285.1)
 shortLabel GenBank FJ616285.1
 visibility pack
-	 
+##########
 
-#############
-	 
 track test
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/GSM5226481_PolII_24hpi_ChIP_TB40E_Rep1.bigWig
+bigDataUrl https://raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/N1N2-PRO-Seq/GSM5226481_PolII_24hpi_ChIP_TB40E_Rep1.bigWig
 longLabel Test
 shortLabel Test
 negateValues off
@@ -22,41 +21,38 @@ altColor 238,142,0
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
-###########
+##########
 
 track nucleosome
-type bigBed 12 
+type bigBed 12
 group map
 priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/nucleosome.bb
+bigDataUrl https://raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/nucleosome.bb
 longLabel Nucleosome
 shortLabel Nucleosome
 visibility pack
-
 ##########
 
 track MIE
-type bigBed 12 
+type bigBed 12
 group map
 priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/MIE.bb
+bigDataUrl https://raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/MIE.bb
 longLabel MIE
 shortLabel MIE
 visibility pack
-
 ##########
 
 track UL123-UL122-SP1-L
-type bigBed 12 
+type bigBed 12
 group map
 priority 3
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/UL123-UL122-SP1-L.bb
+bigDataUrl https://raw.githubusercontent.com/mingli2023/N1N2/master/FJ616285.1/UL123-UL122-SP1-L.bb
 longLabel UL123-UL122-SP1-L
 shortLabel UL123-UL122-SP1-L
 visibility pack
-
 ##########
+
 track UL124
 type bigBed 12
 group map
